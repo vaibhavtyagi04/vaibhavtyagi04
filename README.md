@@ -49,10 +49,6 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavtyagi04&theme=tokyonight" alt="Contribution Streak" />
 </p>
----
-### 🐍 Contribution Activity
-![Snake Animation](https://raw.githubusercontent.com/vaibhavtyagi04/vaibhavtyagi04/output/github-contribution-grid-snake.svg)
----
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vaibhavtyagi04&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </p>
