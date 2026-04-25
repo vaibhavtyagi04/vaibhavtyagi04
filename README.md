@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 🙋‍♂️ About Me<br><br>🔭 Backend-focused MCA student with strong interest in building scalable systems  <br><br>👯 Open to collaborating on backend development and AI/ML-based applications  <br><br>🤝 Looking to improve in system design, performance optimization, and advanced backend architecture  <br><br>🌱 Currently learning machine learning, deep learning, and scalable system design  <br><br>💬 Ask me about REST APIs, FastAPI, MERN stack, and database design  <br><br>⚡ Fun fact: I enjoy turning complex problems into efficient backend solutions 🚀  
 
 
